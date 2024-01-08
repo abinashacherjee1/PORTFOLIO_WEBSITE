@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        h1, h2, h3 {
+            color: #333;
+        }
+
+        .project {
+            margin-bottom: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>ABINASH ACHERJEE</h1>
+        <p>JAVA DEVELOPER | CODER</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Hii I am ABINASH ACHERJEE
+        Passionate Java developer dedicated to crafting efficient and scalable solutions.
+        With a strong foundation in Computer Science I bring a blend of creativity and precision to every project.
+         Eager to contribute in Java base Project.</p>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <div class="Skills">
+           
+            <p>Programming Languages:- Java, JavaScript.
+Database-: MySQL.
+Web Technologies: -HTML, CSS,Servlets, JSP.
+Tools:- Git & Github.
+IDE:-Eclipse,VS CODE.
+Problem Solving:- Algorithm design, Data Structures.
+Collaboration:- Teamwork, Communication.
+ </p>
+            <a href="#">Demo</a> | <a href="#">GitHub :-https://github.com/abinashacherjee1</a>
+        </div>
+        
+        <div class="project">
+            <h3>Web Developer Portfolio Project </h3>
+            <p>
+<h3>Overview</h3>
+<p>This project aims to create a personal portfolio website for a web developer.
+ The portfolio serves as a showcase of the developer's skills, projects, and contact information. 
+ The website is designed to be visually appealing, user-friendly, and informative. </p>
+
+<h3>Features</h3>
+<p>
+1. Home Page:-
+The home page introduces the developer, providing a brief overview of their background, skills, and professional identity.
+ It includes a welcoming header with the developer's name and a description of their role as a web developer. </p>
+
+<p>2. About Me Section:-
+This section provides a more detailed introduction to the developer.
+ It includes information about their educational background, professional experience, and a brief overview of their journey in the field of web development. </p>
+
+<p>3. Projects Section:-
+The projects section showcases a selection of the developer's notable projects.
+ Each project includes a title, description, and links to both the live demo (if applicable) and the GitHub repository.
+  This section highlights the range of skills and technologies the developer has used in their projects. </p>
+
+<p>4. Skills Section:-
+The skills section lists key technical skills possessed by the developer.
+ It can include programming languages, frameworks, tools, and any other relevant skills.
+  This section provides a quick glance at the developer's technical expertise. </p>
+
+<p>5. Contact Section:-
+The contact section provides ways for visitors to get in touch with the developer.
+ It includes the developer's email address, LinkedIn profile link, GitHub profile link, or any other relevant contact information.
+  This section aims to facilitate communication for potential collaborators, employers, or anyone interested in the developer's work. </p>
+
+<p>6. Responsive Design:-
+The portfolio website is designed to be responsive, ensuring a seamless and visually appealing experience across various devices, including desktops, tablets, and smartphones. </p>
+
+<p>7. Technologies Used:-
+HTML: Structure and content of the web pages.
+CSS: Styling and layout of the portfolio for an aesthetically pleasing appearance.
+JavaScript: Enhances interactivity and provides dynamic elements on the website.</p>
+<p>8. Future Enhancements:-
+Future enhancements may include: </p>
+
+<p>9. Conclusion:-
+This web developer portfolio project is an essential tool for showcasing skills, projects, and fostering professional connections.
+ It serves as a central hub for anyone interested in the developer's work and provides a glimpse into their expertise and passion for web development.
+  The project is continuously evolving, with potential for future enhancements and additions to further elevate the developer's online presence.</p>
+            <a href="#">Demo</a> | <a href="#">GitHub</a>
+        </div>
+    </section>
+
+    <section>
+        <h2>WORK EXPERIENCE</h2>
+        <ul>
+           <p>Java Development
+CodSoft, Virtual
+Internship • Oct 2023 - Oct 2023 (1 month)</p>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: abinashacherjee101@gmail.com</p>
+        <p>LinkedIn: www.linkedin.com/in/abinash-acherjee-735238231</p>
+        
+        <p>GitHub: https://github.com/abinashacherjee1</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Portfolio. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
